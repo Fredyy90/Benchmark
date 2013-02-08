@@ -46,7 +46,6 @@ $ git clone git@github.com:fredyy90/Benchmark.git
 
 # Usage
 
-## unserialize($str)
 
 ```php
 <?php
